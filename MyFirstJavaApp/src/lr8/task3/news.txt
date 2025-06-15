@@ -1,0 +1,9 @@
+Новость №1
+Ссылка: http://fat.urfu.ru/manual
+––––––––––––––––––––––––––––––––––––––––
+Новость №2
+Ссылка: http://httpd.apache.org/docs/2.4/mod/mod_userdir.html
+––––––––––––––––––––––––––––––––––––––––
+Новость №3
+Ссылка: http://bugs.debian.org/cgi-bin/pkgreport.cgi?ordering=normal;archive=0;src=apache2;repeatmerged=0
+––––––––––––––––––––––––––––––––––––––––

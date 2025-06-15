@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+        
+    <movies>
+                
+        <movie>
+                        
+            <title>Ирония судьбы, или С лёгким паром!</title>
+                        
+            <director>Эльдар Рязанов</director>
+                        
+            <year>1975</year>
+                    
+        </movie>
+                
+        <movie>
+                        
+            <title>Брат</title>
+                        
+            <director>Алексей Балабанов</director>
+                        
+            <year>1997</year>
+                    
+        </movie>
+                
+        <movie>
+                        
+            <title>Белое солнце пустыни</title>
+                        
+            <director>Владимир Мотыль</director>
+                        
+            <year>1970</year>
+                    
+        </movie>
+            
+        <movie>
+            <title>Астрал</title>
+            <director>Патрик Уилсон</director>
+            <year>2010</year>
+        </movie>
+    </movies>
+    
+</library>
